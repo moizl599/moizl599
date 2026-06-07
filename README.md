@@ -43,6 +43,7 @@ I work at the intersection of **security operations** and **cloud infrastructure
 | Project | Description |
 | :--- | :--- |
 | 🤖 **[Steward](https://github.com/moizl599/Steward)** | Local-first FinOps for Kubernetes |
+| 🤖 **[Parapet-cspm](https://github.com/moizl599/parapet-cspm)** | Local-first CSPM and Attack path Analyzer |
 | 🔎 **[acunetix-integration](https://github.com/moizl599/acunetix-integration)** | Wire Acunetix vulnerability scanning into your security pipeline |
 | ☁️ **[wazuh-cloudinary-integration](https://github.com/moizl599/wazuh-cloudinary-integration)** | Connect Wazuh alerts to Cloudinary |
 | 🍏 **[wazuh-jamf-pro-integration](https://github.com/moizl599/wazuh-jamf-pro-integration)** | Bridge Wazuh and Jamf Pro for endpoint visibility |
@@ -71,7 +72,7 @@ I work at the intersection of **security operations** and **cloud infrastructure
 <div align="center">
 
 <!-- Replace the # below with your real links -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:moizlakdawala97@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/abdulmoiz-lakdawala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:moizl599@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
